@@ -1,2 +1,0 @@
-My tribute page is dedicated to one of my favourite filmakers, Barry Jenkins. 
-I think the gradient isn't the best and the css is a hack job, but I'm proud of myself for accepting the mess and understanding that I'll get better. 
